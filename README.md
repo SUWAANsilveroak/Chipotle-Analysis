@@ -40,9 +40,39 @@ Key highlights include:
 
 ## 💡 Business Insights
 
-From the analysis, a few key insights:  
+# 🍴 Chipotle Data Analysis Insights
 
-Inprocess
+## 1. Profitability
+- To identify the **most profitable items**, collect **food costing data** (raw material cost, preparation cost, etc.).
+- Helps determine items with **high margins** (high selling price + low cost).
+
+## 2. Combo Strategy
+- **Most selling item:** Chicken Bowl  
+- **Popular add-ons:** Diet Coke / Coke  
+- Create **combo deals** (e.g., Chicken Bowl + Diet Coke) with slightly higher price to:  
+  - Increase **Average Order Value (AOV)**  
+  - Drive **higher revenue** without discouraging customers
+
+## 3. Promote High-Margin Items
+- Once food costing data is available:  
+  - Identify **low-cost, high-price items**  
+  - Bundle into combos or promote via discounts → improves **overall profit margins**
+
+## 4. Time-Based Trends
+- Analyze **time-of-day, day-of-week, and seasonal sales** to:  
+  - Forecast sales 📈  
+  - Optimize manpower scheduling 👨‍🍳👩‍🍳  
+  - Manage inventory and supply chain efficiently 🚚  
+
+## 💡 Additional Suggestions
+- **Customer Segmentation:** Analyze purchase behavior for loyalty programs.  
+- **Menu Engineering:** Classify items as:  
+  - ⭐ Stars: High profit, high sales  
+  - 💤 Sleepers: Low sales, low profit  
+  - 🚀 Opportunities: Low cost, high margin, under-promoted  
+- **Cross-Selling:** Suggest add-ons (chips, salsa, toppings) for high-demand items.  
+- **Dynamic Pricing:** Slightly increase prices during peak hours (if acceptable).  
+- **Customer Feedback Integration:** Promote items that are both **profitable** and **well-liked**.
 
 ---
 
